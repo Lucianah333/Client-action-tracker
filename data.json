@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A001",
+    "client": "Kopano School",
+    "title": "Confirm pilot user numbers",
+    "owner": "Mac",
+    "priority": "High",
+    "status": "Open",
+    "dueDate": "2026-09-18"
+  },
+  {
+    "id": "A002",
+    "client": "ANAK",
+    "title": "Complete UAT readiness review",
+    "owner": "Nonofo",
+    "priority": "High",
+    "status": "In Progress",
+    "dueDate": "2026-09-19"
+  },
+  {
+    "id": "A003",
+    "client": "BusBox",
+    "title": "Follow up with payment partner",
+    "owner": "Mac",
+    "priority": "High",
+    "status": "Open",
+    "dueDate": "2026-09-20"
+  },
+  {
+    "id": "A004",
+    "client": "Khwai Group",
+    "title": "Review recruitment priorities",
+    "owner": "Donald",
+    "priority": "Medium",
+    "status": "Open",
+    "dueDate": "2026-09-22"
+  },
+  {
+    "id": "A005",
+    "client": "Structura",
+    "title": "Prepare interview schedule",
+    "owner": "Donald",
+    "priority": "Medium",
+    "status": "In Progress",
+    "dueDate": "2026-09-23"
+  },
+  {
+    "id": "A006",
+    "client": "BusBox",
+    "title": "Archive pilot meeting notes",
+    "owner": "Mac",
+    "priority": "Low",
+    "status": "Completed",
+    "dueDate": "2026-09-25"
+  }
+]
